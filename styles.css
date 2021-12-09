@@ -29,13 +29,13 @@ body {
 }
 
 .pictor {
-    position: relative;
-    padding-left: 420px;
+    position: absolute;
+    padding-left: 370px;
 }
 
 .titel {
     padding-right: 222px;
-    padding-top: 10px;
+    padding-top: 75px;
 }
 
 .jens {
