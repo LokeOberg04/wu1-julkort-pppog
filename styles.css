@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+}
+
+.yellob {
+    background-color: yellow;
+}
+
+.box {
+    height: 35rem;
+    width: 40rem;
+}
+
+.flex-container-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
