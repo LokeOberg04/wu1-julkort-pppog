@@ -28,7 +28,25 @@ body {
     align-items: center;
 }
 
+.pictor {
+    position: relative;
+    padding-left: 420px;
+}
 
+.titel {
+    padding-right: 222px;
+    padding-top: 10px;
+}
+
+.jens {
+    padding-right: 222px;
+}
+
+.te20 {
+    float: right;
+    float: top;
+    padding-right: 22px;
+}
 
 .flip-card {
 
