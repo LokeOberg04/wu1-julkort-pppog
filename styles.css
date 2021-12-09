@@ -7,13 +7,13 @@ body {
 }
 
 .yellob {
-    background-color: whitesmoke;
+    background-color: black;
     border: solid 3px;
 }
 
 .box {
     height: 300px;
-    width: 300px;
+    width: 500px;
 }
 
 .flex-container-item {
@@ -26,7 +26,7 @@ body {
 
 .flip-card {
   background-color: transparent;
-  width: 300px;
+  width: 500px;
   height: 300px;
   perspective: 1000px;
 }
@@ -59,7 +59,7 @@ body {
 }
 
 .flip-card-back {
-  background-color: #2980b9;
-  color: white;
+  background-color: whitesmoke;
+  color: black;
   transform: rotateY(180deg);
 }
