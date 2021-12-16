@@ -14,19 +14,17 @@ html, body {
     align-items: center;
 }
 
-.titel {
-    padding-right: 222px;
-    padding-top: 75px;
-}
-
-.jens {
+h1 {
     padding-right: 222px;
 }
 
-.te20 {
-    float: right;
-    float: top;
-    padding-right: 22px;
+h2 {
+    position: absolute;
+    padding-left: 75px;
+}
+
+p {
+    padding-left: 325px;
 }
 
 .flip-card {
@@ -74,6 +72,7 @@ html, body {
   transform: rotateY(180deg);
   border-radius: 10px;
   font-family: 'Gwendolyn', cursive;
+  font-size: 30px;
 }
 
 .post-stamp {
